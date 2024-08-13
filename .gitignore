@@ -1,0 +1,8 @@
+# Ignore common executable file extensions
+*.exe
+*.out
+*.app
+*.bin
+
+# Ignore specific executable files by name
+someExecutableFile
